@@ -56,24 +56,24 @@ cd stopwatch-project
 2. Open index.html in your web browser or use a local server to serve the project.
 
 ## Usage
-1.Open the stopwatch in your web browser.
+1. Open the stopwatch in your web browser.
 
-2.Click the "Start" button to begin timing.
+2. Click the "Start" button to begin timing.
 
-3.Click the "Pause" button to temporarily stop the timer.
+3. Click the "Pause" button to temporarily stop the timer.
 
-4.Click the "Reset" button to reset the timer to zero.
+4. Click the "Reset" button to reset the timer to zero.
 
-5.Enjoy tracking time with precision!
+5. Enjoy tracking time with precision!
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
 
-1.Fork the repository and create a new branch.
+1. Fork the repository and create a new branch.
 
-2.Make your changes and test them thoroughly.
+2. Make your changes and test them thoroughly.
 
-3.Create a pull request with a clear description of your changes.
+3. Create a pull request with a clear description of your changes.
 
-4.Ensure your code follows best practices and is well-documented.
+4. Ensure your code follows best practices and is well-documented.
 
