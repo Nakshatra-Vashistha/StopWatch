@@ -50,6 +50,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 
 Navigate to the project directory:
+
 cd stopwatch-project
 
 
